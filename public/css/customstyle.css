@@ -1,0 +1,208 @@
+/* Container Start */
+
+.container {
+    width: 100%;
+}
+
+/* Container End  */
+
+/* Column Start */
+
+.col-1 {
+    width: 10%;
+}
+.col-2 {
+    width: 20%;
+}
+.col-3 {
+    width: 30%;
+}
+.col-4 {
+    width: 40%;
+}
+.col-5 {
+    width: 50%;
+}
+.col-6 {
+    width: 60%;
+}
+.col-7 {
+    width: 70%;
+}
+.col-8 {
+    width: 80%;
+}
+.col-9 {
+    width: 90%;
+}
+.col-10 {
+    width: 100%;
+}
+
+/* Column End */
+
+/* Font Start */
+.font-1 {
+    font-size: 10px;
+}
+.font-2 {
+    font-size: 15px;
+}
+.font-3 {
+    font-size: 20px;
+}
+.font-4 {
+    font-size: 25px;
+}
+.font-5 {
+    font-size: 30px;
+}
+.font-6 {
+    font-size: 35px;
+}
+.font-7 {
+    font-size: 40px;
+}
+.font-8 {
+    font-size: 45px;
+}
+.font-9 {
+    font-size: 50px;
+}
+.font-10 {
+    font-size: 55px;
+}
+/* Font End */
+
+/* Text Start */
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+/* Text End */
+
+/* padding Left Start*/
+
+.pl-1 {
+    padding-left: 1px;
+}
+
+.pl-2 {
+    padding-left: 2px;
+}
+
+.pl-3 {
+    padding-left: 3px;
+}
+
+.pl-4 {
+    padding-left: 4px;
+}
+
+.pl-5 {
+    padding-left: 5px;
+}
+
+.pl-6 {
+    padding-left: 6px;
+}
+
+.pl-7 {
+    padding-left: 7px;
+}
+
+.pl-8 {
+    padding-left: 8px;
+}
+
+.pl-9 {
+    padding-left: 9px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.pl-11 {
+    padding-left: 20px;
+}
+
+.pl-12 {
+    padding-left: 30px;
+}
+
+.pl-13 {
+    padding-left: 40px;
+}
+
+/* padding Left End*/
+
+/* padding right start*/
+.pl-1 {
+    padding-left: 1px;
+}
+
+.pl-2 {
+    padding-left: 2px;
+}
+
+.pl-3 {
+    padding-left: 3px;
+}
+
+.pl-4 {
+    padding-left: 4px;
+}
+
+.pl-5 {
+    padding-left: 5px;
+}
+
+.pl-6 {
+    padding-left: 6px;
+}
+
+.pl-7 {
+    padding-left: 7px;
+}
+
+.pl-8 {
+    padding-left: 8px;
+}
+
+.pl-9 {
+    padding-left: 9px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.pl-11 {
+    padding-left: 20px;
+}
+
+.pl-12 {
+    padding-left: 30px;
+}
+
+.pl-13 {
+    padding-left: 40px;
+}
+
+/* padding right End*/
+
+
+/* line height */
